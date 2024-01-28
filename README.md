@@ -1,6 +1,9 @@
 # Curso de Python
 Bem-vindo ao nosso Curso de Python, uma jornada que o levará desde os fundamentos até habilidades avançadas de programação! Python, conhecida por sua simplicidade e versatilidade, é uma linguagem poderosa amplamente utilizada em diversas áreas, desde desenvolvimento web até análise de dados e inteligência artificial.
 
+### Teórica
+* [Requisitos Básicos](./aulas/teorica_requisitos.md)
+
 ### Lógica de Programação Básica
 * [Aula 00 - Hello, World!](./aulas/aula00_HelloWorld.py)
 * [Aula 01 - Comentários](./aulas/aula01_Comentario.py)
@@ -18,5 +21,6 @@ Bem-vindo ao nosso Curso de Python, uma jornada que o levará desde os fundament
 * [Aula 13 - Inteiros](./aulas/aula13_Inteiros.py)
 * [Aula 14 - Flutuantes](./aulas/aula14_Flutuantes.py)
 * [Aula 15 - Boleanos](./aulas/aula15_Boleanos.py)
-* [Aula 16 - NoneTypes](./aulas/aula16_NoneTypes.py)
-* [Aula 17 - Classe type()](./aulas/aula17_ClasseType.py)
+* [Aula 16 - Classe type()](./aulas/aula16_ClasseType.py)
+* [Aula XX - Conversão de Tipos de Dados (Parte 1) - Colocar depois de operadores aritméticos]()
+* [Aula XX2 - Conversão de Tipos de Dados (Parte 2) - Colocar depois da parte 1]()

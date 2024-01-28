@@ -22,4 +22,5 @@ print('Caminho do arquivo: C:\\users\\python\\arquivo.txt')
 # Caracter Hexadecimal
 print('O naipes do baralho são: \x03 \x04 \x05 \x06')
 
-# Os caracteres de escape são úteis para representar caracteres especiais ou realizar formatação específica dentro de strings, tornando-as mais flexíveis e versáteis. Eles são amplamente utilizados em situações onde é necessário controlar a formatação ou a aparência do texto exibido.
+# Os caracteres de escape são úteis para representar caracteres especiais ou realizar formatação específica dentro de strings, tornando-as mais flexíveis e versáteis. 
+# Eles são amplamente utilizados em situações onde é necessário controlar a formatação ou a aparência do texto exibido.

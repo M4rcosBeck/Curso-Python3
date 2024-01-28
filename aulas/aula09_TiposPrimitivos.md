@@ -8,8 +8,11 @@ Tipos primitivos são os tipos de dados fundamentais e básicos que a linguagem 
 * Inteiros (int) 
 * Flutuantes (float) 
 * Booleanos (bool)
-* Nonetypes (none)
 
 <p style='text-align: justify;'>
 Os tipos primitivos são a base da representação de dados em Python e são utilizados extensivamente em todas as áreas da programação. Combinados com estruturas de controle, operadores e funções, os tipos primitivos fornecem os blocos de construção fundamentais para o desenvolvimento de programas em Python.
 </p>
+
+<p style='text-align: justify;'>
+Existem muitos outros tipos de dados primitivos, porém vontaremos nesse assunto mais tarde, quando possuirmos uma compreensão melhor da linguagem.
+<p>
