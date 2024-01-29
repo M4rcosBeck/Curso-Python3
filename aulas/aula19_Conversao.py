@@ -33,3 +33,5 @@ resultado = numero_inteiro + numero_decimal  # Coerção de int para float
 # Em resumo, type conversion, typecasting e coercion são técnicas utilizadas em Python para modificar o tipo de dado de uma variável. 
 # A escolha entre elas depende do contexto e das necessidades específicas do programa. 
 # É importante entender esses conceitos para garantir o comportamento correto e esperado em suas operações de conversão de tipos de dados.
+
+# ver a aula 22 do curso para completar essa aula.

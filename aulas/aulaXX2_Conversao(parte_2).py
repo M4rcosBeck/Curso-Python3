@@ -1,1 +1,0 @@
-# ver a aula 22 do curso.

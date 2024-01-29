@@ -9,3 +9,5 @@
 print(123) # Comentário ao lado
 # Comentário Abaixo
 # print(123) Desativando trecho de código
+
+# No Visual Studio você pode usar o atalho < CTRL + ; > para comentar e descomentar linhas selecionadas.
