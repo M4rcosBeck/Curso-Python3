@@ -38,5 +38,14 @@ print(mensagem) # Saída: O total da compra é: R$1,234.57
 
 # ---
 
+# Você pode usar a sintaxe {variavel=} para incluir o nome da variável e o valor atribuído a ela na string formatada. 
+# Isso é útil para depuração e exibição de informações sobre variáveis diretamente nas strings formatadas, sem a necessidade de concatenar manualmente.
+
+texto = "Meu Texto"
+mensagem = f'{texto=}'
+print(mensagem)
+
+# ---
+
 # As f-strings são uma maneira eficaz de formatar strings em Python, tornando o código mais legível e fácil de escrever. 
 # Elas são especialmente úteis quando você precisa incorporar valores de variáveis ou expressões em strings de forma dinâmica.

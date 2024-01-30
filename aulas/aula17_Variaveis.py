@@ -29,7 +29,7 @@ print(nome, "tem", idade, "anos")       # Saída: Maria tem 25 anos.
 
 # Outros exemplos com expressões:
 soma = 2 + 2
-print("A soma é:", soma)               # A soma é 4
+print("A soma é:", soma)               # A soma é 4    
 
 # As variáveis desempenham um papel fundamental na minimização da repetição de código.
 # Ao armazenar valores em variáveis, você pode reutilizá-los em diferentes partes do seu código sem precisar digitá-los novamente. 
