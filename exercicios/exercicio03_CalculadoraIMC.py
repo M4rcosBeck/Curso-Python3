@@ -1,4 +1,4 @@
-# Exercício xx de Python: Calculadora de IMC
+# Exercício: Calculadora de IMC
 
 # Escreva um programa que calcule o Índice de Massa Corporal (IMC) de uma pessoa. 
 # O IMC é uma medida que relaciona o peso e a altura de uma pessoa, e é comumente utilizado para avaliar se uma pessoa está dentro do peso considerado saudável.

@@ -1,5 +1,5 @@
 
-# Exercício 02 de Python: Comparação de Valores
+# Exercício: Comparação de Valores
 
 # Escreva um programa que solicite ao usuário que digite dois valores numéricos. 
 # Em seguida, compare os valores digitados e informe se o primeiro valor é maior, menor ou igual ao segundo valor.
