@@ -43,4 +43,5 @@ Bem-vindo ao nosso Curso de Python, uma jornada que o levará desde os fundament
 * []()
 * [Aula XX - método .format - colocar após a aula de objetos/métodos]()
 * [Aula XX - Ellipsys - colocar após a aula de array multidimensional]()
+* [Aula XX - Falsy - colocar após a função set()]()
 * [Exercício XX - Calculadora de IMC - colocar após a aula de operadores lógicos]()
