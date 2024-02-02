@@ -1,4 +1,4 @@
-# OPERAÇÕES ARITMÉTICAS
+# OPERADORES ARITMÉTICOS
 
 # As operações aritméticas em Python permitem realizar cálculos matemáticos básicos e avançados. 
 # Aqui está um resumo das operações aritméticas fundamentais em Python:

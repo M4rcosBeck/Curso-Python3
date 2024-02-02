@@ -1,4 +1,4 @@
-# Operadores de Identidade IN e NOT IN
+# Operadores de Identidade (Associação) IN e NOT IN
 
 '''
 Os operadores in e not in em Python são utilizados para verificar se um valor está presente ou não em uma sequência, como uma lista, tupla, string, dicionário ou conjunto. Aqui está um resumo sobre esses operadores:
