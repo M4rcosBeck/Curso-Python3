@@ -1,8 +1,14 @@
 # Curso de Python
-Bem-vindo ao nosso Curso de Python, uma jornada que o levará desde os fundamentos até habilidades avançadas de programação! Python, conhecida por sua simplicidade e versatilidade, é uma linguagem poderosa amplamente utilizada em diversas áreas, desde desenvolvimento web até análise de dados e inteligência artificial.
+Bem-vindo ao meu Curso de Python, que o levará desde os fundamentos até habilidades avançadas de programação! 
+Python, conhecida por sua simplicidade e versatilidade, é uma linguagem poderosa amplamente utilizada em diversas áreas, desde desenvolvimento web até análise de dados e inteligência artificial.
 
 ### Teórica
 * [Requisitos Básicos](./aulas/teorica_requisitos.md)
+
+### Recursos Básicos
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Python](https://www.python.org/)
+* [Docuemntaçao Python](https://docs.python.org/3/)
 
 ### Lógica de Programação Básica
 * [Aula 00 - Hello, World!](./aulas/aula00_HelloWorld.py)
@@ -41,8 +47,9 @@ Bem-vindo ao nosso Curso de Python, uma jornada que o levará desde os fundament
 * [Aula 30 - Avaliação de Curto-Circuito](./aulas/aula30_AvaliacaoCurtoCircuito.md)
 * [Aula 31 - Interpolação de Strings](./aulas/aula31_InterpolacaoStrings.py)
 * [Aula 32 - Formatação de F-Strings Básica](./aulas/aula32_FormatacaoStrings.py)
-* [Aula 33]()
-* []()
+* [Aula 33 - Índices]()
+* [Aula 34 - Fatiamento de Strings]()
+* [Aula 35 - Convenção sobre Constantes]()
 * []()
 * []()
 * []()
@@ -50,6 +57,5 @@ Bem-vindo ao nosso Curso de Python, uma jornada que o levará desde os fundament
 * [Aula XX - método .format - colocar após a aula de objetos/métodos]()
 * [Aula XX - Ellipsys - colocar após a aula de array multidimensional]()
 * [Aula XX - Falsy - colocar após a função set()]()
-* [Aula XX - Indices]()
-* [Aula XX - Operadores de Identidade - colocar após a explicação de iteração e listas]()
-* [Aula XX - Fatiamento de Strings - colocar após a explicação de iteração]()
+* [Aula XX - Operadores de Identidade (Associação) - colocar após a explicação de iteração e listas]()
+* [Aula XX - Função len() - colocar após a explicação do que são funções]()
