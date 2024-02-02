@@ -50,7 +50,7 @@ Python, conhecida por sua simplicidade e versatilidade, é uma linguagem poderos
 * [Aula 33 - Índices]()
 * [Aula 34 - Fatiamento de Strings]()
 * [Aula 35 - Convenção sobre Constantes]()
-* []()
+* [Aula 36 - Quebra de Linha de Código]()
 * []()
 * []()
 * []()
