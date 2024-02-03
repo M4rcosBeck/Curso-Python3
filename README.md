@@ -59,3 +59,6 @@ Python, conhecida por sua simplicidade e versatilidade, é uma linguagem poderos
 * [Aula XX - Falsy - colocar após a função set()]()
 * [Aula XX - Operadores de Identidade (Associação) - colocar após a explicação de iteração e listas]()
 * [Aula XX - Função len() - colocar após a explicação do que são funções]()
+* [Aula XX - Função id() - colocar após a explicação do que são funções, listas, dicionários e tuplas]()
+* [Aula XX - Flags - colocar depois da funçãio id()]()
+* [Aula XX - Variáveis Imutáveis e Mutáveis - colocar depois de dicionários, tuplas, listas e conjuntos]()
